@@ -5,10 +5,10 @@
 Present dashboard user with top listings and relevant market data for their search filters.
 
 ## Process
-### Data cleaning (python)
-### EDA - various visualizations used to assess general market trends, identify outliers and remove where necessary.
-### Create dashboard from visualizations
-### Format dashboard
+Data cleaning (python)
+EDA - various visualizations used to assess general market trends, identify outliers and remove where necessary.
+Create dashboard from visualizations
+Format dashboard
 
 ## Results
 
