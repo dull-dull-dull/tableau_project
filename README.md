@@ -18,7 +18,7 @@ Data Question - Which listings provide the best value?
 
 I navigated the prompts by making visualizations of number of listings, average price, average rating, and listing count for suggested categorical features and seeing when their combinations produced relevant insight. I first did this at the listing level where possible, but found more relevant insights by organizing data at the neighbourhood (and occasionally ZIP Code) level. I then compared datapoints, distributions, and trends in aggregated data and developed a dashboard. 
 
-The dashboard allows its user to viisualize market data for the subsection of the listings relevant to them, filterable by listing price, neighbourhood, room type, number of beds, and/or ZIP code. 
+The dashboard allows its user to visualize market data for the subsection of the listings relevant to them, filterable by listing price, neighbourhood, room type, number of beds, and/or ZIP code. 
 
 The dashboard also provides a table containg information about the top relevant listings for the user filtered subsection of the data. This table shows listings with 10 or more reviews ordered by review score.
 
