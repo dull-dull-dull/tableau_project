@@ -5,10 +5,11 @@
 Present dashboard user with top listings and relevant market data for their search filters.
 
 ## Process
-Data cleaning (python)
-EDA - various visualizations used to assess general market trends, identify outliers and remove where necessary.
+Data cleaning (python) - obvious outliers, malformatted data, etc.
+EDA - various visualizations used to assess general market trends, identify outliers, malformatted data / data types
+Secondary data cleaning using EDA insights
 Create dashboard from visualizations
-Format dashboard
+Format dashboard – black background with white helvetica text emulates design of NYC subway signage, subtitle/table accents evoke iconic NYC yellow taxis.
 
 ## Results
 
